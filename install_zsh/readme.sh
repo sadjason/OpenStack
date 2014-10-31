@@ -1,5 +1,5 @@
-# 安装zsh、wget
-sudo apt-get install zsh wget -y
+# 安装zsh、wget以及git
+sudo apt-get install zsh wget git -y
 
 # 查看Ubuntu安装了哪些shell
 cat /etc/shells
