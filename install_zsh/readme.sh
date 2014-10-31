@@ -11,7 +11,7 @@ echo $SHELL/bin/bash
 wget --no-check-certificate https://raw.githubusercontent.com/sadjason/OpenStack/master/install_zsh/install-oh-my-zsh.sh -O - | sh
 
 # 替换bash为zsh
-
+chsh -s /bin/zsh
 
 # 重启系统
 ##########################################
