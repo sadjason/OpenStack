@@ -1,4 +1,4 @@
-sudo apt-get install vim
+sudo apt-get install vim -y
 # 做个软链接（用vi命令代替vim）
 sudo ln -sf /usr/bin/vim /usr/bin/vi
 
